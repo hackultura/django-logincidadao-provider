@@ -36,7 +36,7 @@ Instalação
         'allauth',
         'allauth.account',
         'allauth.socialaccount',
-        'allauth.socialaccount.providers.logincidadao',
+        'logincidadao_provider',
     )
 
 3. Defina o seu ``CLIENT_ID`` e o ``SECRET_KEY`` no seu ``settings.py``:

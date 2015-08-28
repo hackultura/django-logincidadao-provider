@@ -5,7 +5,8 @@ Credits
 Development Lead
 ----------------
 
-* Hackultura <hackultura@gmail.com>
+* Gilson Filho <me@gilsondev.in>
+* Decko <decko@birosca.mobi>
 
 Contributors
 ------------

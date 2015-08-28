@@ -22,11 +22,13 @@ Instalação
 1. Instale a dependência:
 
 .. code-block:: bash
+
     $ pip install django-logincidadao-provider
 
 2. Registre a aplicação em ``INSTALLED_APPS``:
 
 .. code-block:: python
+
     INSTALLED_APPS = (
         ...
         'django.contrib.sites',
@@ -41,6 +43,7 @@ Instalação
 
 
 .. code-block:: python
+
     LOGINCIDADAO_DOMAIN = 'http://meu.logincidadao.org.br/'
     LOGINCIDADAO_PUBLIC_KEY = 'asl1209aslk'
     LOGINCIDADAO_PRIVATE_KEY = 'ak(!@akase1!@(asjaslk9110'
